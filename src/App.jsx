@@ -13,7 +13,6 @@ function App() {
       backgroundAttachment: 'fixed',
       width: "100%",
       minHeight: "100vh",
-      paddingBottom: "60px"
     }}>
       <div>
         <RouterConfig />
